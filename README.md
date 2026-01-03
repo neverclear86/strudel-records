@@ -1,4 +1,4 @@
-# Strudel Records 🎵
+# Strudel Records 🌀
 
 創好リナが制作したStrudel楽曲のソースコードです。
 
@@ -24,6 +24,6 @@
 
 ### クレジット表記について
 
-法的な義務はありませんが、もし使ってくれた場合はクレジット表記していただけると嬉しいです 💕
+法的な義務はありませんが、もし使ってくれた場合はクレジット表記していただけると嬉しいです。
 
 例: `Music by LinaTsukusu (https://github.com/neverclear86/strudel-records)`
