@@ -4,7 +4,7 @@
 
 ## Strudel
 
-[Strudel](httsp://strudel.cc) はブラウザ上で動作するライブコーディング環境です。
+[Strudel](https://strudel.cc) はブラウザ上で動作するライブコーディング環境です。
 
 ## 使い方
 
